@@ -1,7 +1,9 @@
  <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=bold&pause=1000&width=435&lines=Hi%2C+I'm+MD.SOBUJ+MADBOR" alt="Typing SVG" /></a></h1>
  
 <h4> Web Developer</h4>
-![Web Developer](https://i.ibb.co.com/0y0XrXmN/MERN-stack-developer-digital-banner.png)
+
+<img width="1536" height="684" alt="MERN stack developer digital banner" src="https://github.com/user-attachments/assets/a911b980-c3f1-4fb9-888f-513790f7bab7" />
+
 
 <h2>About me</h2>
 <p>I am a dedicated Junior Full Stack Developer based in Bangladesh, with a solid foundation in building modern, scalable, and responsive web applications. My journey in the tech world is fueled by a passion for solving complex problems and a commitment to writing clean, maintainable code.</p>
