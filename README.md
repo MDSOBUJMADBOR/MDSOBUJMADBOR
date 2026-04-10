@@ -15,7 +15,7 @@
 - 📫 How to reach me:sobujmadbor660@gmail.com
 - ⚡ Fun fact: I love coding & problem solving
 
-## Skills : 
+## 💻 Skills : 
 - JavaScript
 - React
 - Node.js
