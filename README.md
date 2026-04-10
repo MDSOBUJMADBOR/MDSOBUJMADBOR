@@ -1,22 +1,29 @@
  <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=bold&pause=1000&width=435&lines=Hi%2C+I'm+MD.SOBUJ+MADBOR" alt="Typing SVG" /></a></h1>
  
-<h4> Web Developer</h4>
+<h3 align="left">🚀 MERN Stack Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://i.ibb.co.com/zTywBv6z/web.png" alt="banner" />
 </p>
 
 
-<h2>About me</h2>
-<p>I am a dedicated Junior Full Stack Developer based in Bangladesh, with a solid foundation in building modern, scalable, and responsive web applications. My journey in the tech world is fueled by a passion for solving complex problems and a commitment to writing clean, maintainable code.</p>
+## 🙋‍♂️ About Me 
+- 🔭 I’m currently working on MERN Stack Projects
+- 🌱 I’m currently learning Advanced React & Node.js
+- 👯 I’m looking to collaborate on Web Development Projects
+- 💬 Ask me about JavaScript, React, Node.js, MongoDB
+- 📫 How to reach me:sobujmadbor660@gmail.com
+- ⚡ Fun fact: I love coding & problem solving
+
+## Skills : 
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Tailwind.css
 
 
- Skills : JavaScript / React / Node.js / MongoDB/Tailwind.css
 
-
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsobujmadbor&label=Profile%20views&color=0e75b6&style=flat" alt="mdsobujmadbor" /> </p>
 
