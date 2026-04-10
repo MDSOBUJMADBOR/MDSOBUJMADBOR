@@ -8,7 +8,9 @@
 <h2>About me</h2>
 <p>I am a dedicated Junior Full Stack Developer based in Bangladesh, with a solid foundation in building modern, scalable, and responsive web applications. My journey in the tech world is fueled by a passion for solving complex problems and a commitment to writing clean, maintainable code.</p>
 
-<h3>Skills:</h3> JavaScript / React / Node.js / MongoDB/Tailwind.css
+<div class="flex">
+ <h3>Skills:</h3> <p>JavaScript / React / Node.js / MongoDB/Tailwind.css</p>
+</div>
 
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on github 
