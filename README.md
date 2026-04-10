@@ -2,7 +2,9 @@
  
 <h4> Web Developer</h4>
 
-<img width="1536" height="684" alt="MERN stack developer digital banner" src="https://github.com/user-attachments/assets/a911b980-c3f1-4fb9-888f-513790f7bab7" />
+<p align="center">
+  <img src="https://i.ibb.co.com/zTywBv6z/web.png" alt="banner" />
+</p>
 
 
 <h2>About me</h2>
