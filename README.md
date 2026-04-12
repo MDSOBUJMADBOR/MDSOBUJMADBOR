@@ -28,11 +28,9 @@
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=SKILLS" alt="Typing SVG" /></a>
 
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Tailwind.css
+![Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,mongodb,express,firebase,git,github)
+
+<br>
 
 
 
