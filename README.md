@@ -1,16 +1,21 @@
- <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=bold&pause=1000&width=435&lines=Hi%2C+I'm+MD.SOBUJ+MADBOR" alt="Typing SVG" /></a></h1>
+ <h1 align="center"> Hi there, I'm Md.Sobuj Madbor 👋</h1>
  
-<h3 align="left">🚀 MERN Stack Developer from Bangladesh</h3>
+
+
+🚀
+ <p>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=MERN+Stack+Developer" alt="Typing SVG" /></a></p>
+
+
+
 
 <p align="center">
-
-
 <img width="851" height="315" alt="SOOBUJ" src="https://github.com/user-attachments/assets/460679b2-efe0-442b-aaf6-c648486c91eb" />
-
 </p>
 
 
-## 🙋‍♂️ About Me 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=159DF7&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a> 
+
 - 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning Advanced React & Node.js
 - 👯 I’m looking to collaborate on Web Development Projects
@@ -24,6 +29,27 @@
 - Node.js
 - MongoDB
 - Tailwind.css
+
+
+
+
+<details>
+<summary>▼ View Academic Background ⬇️</summary>
+
+<br>
+
+| Institution                         | Qualification                              | Period              |
+|-----------------------------------|-------------------------------------------|---------------------|
+| Bangladesh Open University        | Diploma in Computer Science & Application | Feb 2026 – Present  |
+| Asian University of Bangladesh    | BA English                                | 2015 – 2017         |
+| Madan Mohan College               | HSC – Business Studies                    | 2013 – 2015         |
+| Siraj Uddin Sarker Bidyaniketan   | SSC – Business Studies                    | 2011 – 2013         |
+
+</details>
+
+
+
+
 
 
 
