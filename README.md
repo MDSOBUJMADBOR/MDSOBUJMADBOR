@@ -3,7 +3,10 @@
 <h3 align="left">🚀 MERN Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/zTywBv6z/web.png" alt="banner" />
+
+
+<img width="851" height="315" alt="SOOBUJ" src="https://github.com/user-attachments/assets/460679b2-efe0-442b-aaf6-c648486c91eb" />
+
 </p>
 
 
