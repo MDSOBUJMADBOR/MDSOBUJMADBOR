@@ -23,7 +23,11 @@
 - 📫 How to reach me:sobujmadbor660@gmail.com
 - ⚡ Fun fact: I love coding & problem solving
 
-## 💻 Skills : 
+
+
+<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=SKILLS" alt="Typing SVG" /></a>
+
 - JavaScript
 - React
 - Node.js
@@ -33,8 +37,10 @@
 
 
 
+<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=EDUCATION" alt="Typing SVG" /></a>
 <details>
-<summary>▼ View Academic Background ⬇️</summary>
+<summary>▼ View Academic Background ⤵</summary>
 
 <br>
 
@@ -45,7 +51,7 @@
 | Mahmulpur Modern High School      | SSC – Humanities                |      4.72          | 2020 – 2022         |
 
 </details>
-
+<hr>
 
 
 
