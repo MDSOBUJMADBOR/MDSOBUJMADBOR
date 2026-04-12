@@ -12,8 +12,8 @@
 <img width="851" height="315" alt="SOOBUJ" src="https://github.com/user-attachments/assets/460679b2-efe0-442b-aaf6-c648486c91eb" />
 </p>
 
-
-
+<br>
+<hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=159DF7&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a> 
 
 - 🔭 I’m currently working on MERN Stack Projects
@@ -39,6 +39,7 @@
 
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=EDUCATION" alt="Typing SVG" /></a>
+
 <details>
 <summary>▼ View Academic Background ⤵</summary>
 
