@@ -38,12 +38,11 @@
 
 <br>
 
-| Institution                         | Qualification                              | Period              |
-|-----------------------------------|-------------------------------------------|---------------------|
-| Bangladesh Open University        | Diploma in Computer Science & Application | Feb 2026 – Present  |
-| Asian University of Bangladesh    | BA English                                | 2015 – 2017         |
-| Madan Mohan College               | HSC – Business Studies                    | 2013 – 2015         |
-| Siraj Uddin Sarker Bidyaniketan   | SSC – Business Studies                    | 2011 – 2013         |
+| Institution                       | Qualification                   |      Result        | Period              |
+|-----------------------------------|---------------------------------|--------------------|---------------------|
+| Madaripur Govt. College           | BA - Political Science          |                    | 2024 – Present      |
+| Mahmulpur Modern High School      | HSC – Humanities                |      4.17          | 2022 – 2024         |
+| Mahmulpur Modern High School      | SSC – Humanities                |      4.72          | 2020 – 2022         |
 
 </details>
 
