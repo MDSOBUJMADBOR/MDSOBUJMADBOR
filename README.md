@@ -83,7 +83,12 @@
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/MDSOBUJMADBOR) 
 
- 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=MDSOBUJMADBOR&theme=dark&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+</a>
+
+
+
+
 
