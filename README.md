@@ -69,10 +69,8 @@
 
 
 
+#My Programming Languages
 
-## 📊 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=My Programming Languages" alt="Typing SVG" /></a>
 <p align="center">
   <img style="border:2px solid #ff4d6d; border-radius:10px; padding:5px;"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDSOBUJMADBOR&layout=compact&theme=radical&langs_count=3&card_width=450"
