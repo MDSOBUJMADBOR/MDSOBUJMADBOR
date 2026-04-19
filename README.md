@@ -61,15 +61,21 @@
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=183DF7&width=435&lines=GitHub+Stats" alt="Typing SVG" /></a>
 
+<p align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=MDSOBUJMADBOR&theme=dark&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=MDSOBUJMADBOR&theme=dark&hide_border=false&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" 
+    alt="GitHub Streak"
+    style="border:2px solid #58a6ff; border-radius:12px; padding:6px;"
+  />
 </a>
+</p>
 
 <hr>
 
 
 
-#My Programming Languages
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=435&lines=My+Programming+Languages" alt="Typing SVG" /></a>
 
 <p align="center">
   <img style="border:2px solid #ff4d6d; border-radius:10px; padding:5px;"
