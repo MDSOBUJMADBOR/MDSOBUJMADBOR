@@ -75,14 +75,14 @@
 
 
 
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=435&lines=My+Programming+Languages" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=435&lines=My+Programming+Languages" alt="Typing SVG" /></a>
 
-<p align="center">
+<!-- <p align="center">
   <img style="border:2px solid #ff4d6d; border-radius:10px; padding:5px;"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDSOBUJMADBOR&layout=compact&theme=radical&langs_count=3&card_width=450"
        alt="Top Languages" />
-</p> -->
-![Skills](https://skillicons.dev/icons?i=js,ts)
+</p>  -->
+![Skills](https://skillicons.dev/icons?i=js)
 
 
 <hr>
