@@ -132,14 +132,26 @@
 
 
 
+## 📫 Contact Me
+
+📧 Email: sobujmadbor660@gmail.com
+
+📍 Location: Madaripur, Bangladesh
+
+📱 Phone: +8801826140440
+
+
+
+
+
 
 
 
 ## 🔗 Connect with Me
 
----
 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/md-sobuj-madbor" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -152,4 +164,25 @@
   <a href="mailto:sobujmadbor660@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p> -->
+
+
+
+<h1 align="left">🌐 Social Links</h1>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-sobuj-madbor/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MDSOBUJMADBOR" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  <a href="https://sobuj-madbor-portflio.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Portfolio"/>
+  </a>
 </p>
+
+
+
+
+
