@@ -186,3 +186,15 @@
 
 
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MDSOBUJMADBOR&theme=dark_lover&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDSOBUJMADBOR&theme=tokyo-night" />
+</p>
