@@ -13,15 +13,24 @@
 </p>
 
 <br>
+
+
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=159DF7&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a> 
+
+I'm a passionate MERN Stack Developer who enjoys building modern, responsive, and user-friendly web applications. I love solving real-world problems through clean and efficient code. Currently, I'm improving my skills in Next.js, TypeScript, and backend development while continuously learning new technologies.
+
+
+
+
+## 🚀 Current Activities
 
 - 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning Advanced React & Node.js
 - 👯 I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about JavaScript, React, Node.js, MongoDB
-- 📫 How to reach me:sobujmadbor660@gmail.com
-- ⚡ Fun fact: I love coding & problem solving
+
+
 
 
 
@@ -181,6 +190,14 @@
     <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Portfolio"/>
   </a>
 </p>
+
+<hr>
+
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MDSOBUJMADBOR&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MDSOBUJMADBOR&layout=compact&theme=tokyonight)
+
 
 
 
