@@ -56,7 +56,7 @@ I'm a passionate MERN Stack Developer who enjoys building modern, responsive, an
 |-----------------------------------|---------------------------------|--------------------|---------------------|
 | Madaripur Govt. College           | BA - Political Science          |                    | 2024 – Present      |
 | Madaripur Govt. College           | HSC – Humanities                |      4.17          | 2022 – 2024         |
-| Mahmulpur Modern High School      | SSC – Humanities                |      4.72          | 2020 – 2022         |
+| Mahmudpur Modern High School      | SSC – Humanities                |      4.72          | 2020 – 2022         |
 
 </details>
 <hr>
