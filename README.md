@@ -92,6 +92,7 @@ I'm a passionate MERN Stack Developer who enjoys building modern, responsive, an
        alt="Top Languages" />
 </p>  -->
 ![Skills](https://skillicons.dev/icons?i=js)
+![Skills](https://skillicons.dev/icons?i=ts)
 
 
 <hr>
@@ -197,6 +198,7 @@ I'm a passionate MERN Stack Developer who enjoys building modern, responsive, an
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MDSOBUJMADBOR&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MDSOBUJMADBOR&layout=compact&theme=tokyonight)
+
 
 
 
