@@ -195,9 +195,7 @@ I'm a passionate MERN Stack Developer who enjoys building modern, responsive, an
 <hr>
 
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MDSOBUJMADBOR&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MDSOBUJMADBOR&layout=compact&theme=tokyonight)
 
 
 
