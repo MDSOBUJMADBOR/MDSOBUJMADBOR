@@ -37,7 +37,7 @@ I'm a passionate MERN Stack Developer who enjoys building modern, responsive, an
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=SKILLS" alt="Typing SVG" /></a>
 
-![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,express,firebase,git,github,html,css,tailwind,)
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,express,git,github,html,css,tailwind,)
 
 <br>
 
