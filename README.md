@@ -1,11 +1,14 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,65:2563EB,85:06B6D4,100:22D3EE&height=220&section=header&text=MD.%20SOBUJ%20MADBOR&fontSize=46&fontColor=FFFFFF&fontAlignY=30&desc=MERN%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20MongoDB&descAlignY=55&descSize=17&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:3B82F6&height=220&section=header&text=MD.%20SOBUJ%20MADBOR&fontSize=46&fontColor=FFFFFF&fontAlignY=30&desc=MERN%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20MongoDB&descAlignY=55&descSize=17&animation=fadeIn"
   width="100%"
   alt="MD. Sobuj Madbor"
 />
+
+
 </p>
 
 <!-- ======================= PROFILE BADGES ======================= -->
@@ -112,17 +115,6 @@ I'm continuously learning, experimenting with new technologies, and improving my
 </p>
 
 ---
-
-## 🎯 Development Focus
-
-```text
-Frontend Development       ████████████████████  React / Next.js
-Backend Development        ██████████████████░░  Node.js / Express.js
-Database Development       ████████████████░░░░  MongoDB / Mongoose
-TypeScript                 ██████████████░░░░░░  TypeScript
-UI/UX                      █████████████████░░░  Responsive Design
-Problem Solving            ██████████████████░░  Algorithms / Logic
-```
 
 ---
 
