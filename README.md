@@ -33,18 +33,6 @@
 
 <!-- ======================= INTRO ======================= -->
 
-<!-- <h1 align="center">
-  Hi there, I'm <strong>Md. Sobuj Madbor</strong> 👋
-</h1>
-
-<p align="center">
-  <strong>Full Stack Developer • MERN Stack Developer • Problem Solver</strong>
-</p>
-
-<p align="center">
-  I build modern, scalable, responsive and user-focused web applications
-  using the latest JavaScript technologies.
-</p> -->
 
 ---
 
@@ -235,16 +223,7 @@ Problem Solving            █████████████████�
 </p>
 
 
-
 ---
-
----
-
-## ⚡ Developer Mindset
-
-> **"Learn continuously. Build consistently. Improve every day."**
-
-I believe the best way to become a better developer is to **keep learning, build real projects, solve problems, and never stop improving.**
 
 ---
 
