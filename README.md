@@ -248,52 +248,60 @@ Designing clean interfaces focused on usability, accessibility and responsive ex
 
 ---
 
-## 📌 Featured Projects
-
-Here are some of the types of projects I enjoy building:
-
-| Project Type               | Technologies                         |
-| :------------------------- | :----------------------------------- |
-| 🛒 E-Commerce Applications | Next.js, React, Node.js, MongoDB     |
-| 💰 Crowdfunding Platforms  | MERN Stack, Stripe, REST API         |
-| 📚 Learning Platforms      | Next.js, TypeScript, Node.js         |
-| 🤖 AI Applications         | React, Next.js, API Integration      |
-| 📖 Book Management Systems | React, Express.js, MongoDB           |
-| 💼 Portfolio Websites      | Next.js, Tailwind CSS, Framer Motion |
-
-👉 Explore all my repositories on **[GitHub](https://github.com/MDSOBUJMADBOR)**.
 
 ---
 
-## 🌐 Connect With Me
+📊 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-sobuj-madbor/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/sobuj.madbor.735717">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://md-sobuj-madbor-portflio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/1ZX4xrrKTSfjv3HIHGrNSi7kXm0KSiAAp/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/RESUME-64748B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="mailto:sobujmadbor660@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/8801826140440">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://discordapp.com/users/1489465555151749141">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/MDSOBUJMADBOR">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://komarev.com/ghpvc/?username=MDSOBUJMADBOR&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile Views" />
   </a>
-  <a href="https://www.linkedin.com/in/md-sobuj-madbor/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/MDSOBUJMADBOR?tab=followers">
+    <img src="https://img.shields.io/github/followers/MDSOBUJMADBOR?label=FOLLOWERS&style=flat-square&color=334155" alt="Followers" />
   </a>
-  <a href="https://sobuj-madbor-portflio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/MDSOBUJMADBOR?tab=stars">
+    <img src="https://img.shields.io/github/stars/MDSOBUJMADBOR?label=STARS&style=flat-square&color=14B8A6" alt="Stars" />
   </a>
 </p>
 
----
+<p align="center">
+  📍 <strong>Location: Madaripur, Bangladesh</strong>
+</p>
 
-## 📫 Contact Me
+📫 Contact Me
 
 <p align="center">
   <a href="mailto:sobujmadbor660@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-sobujmadbor660%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-sobujmadbor660%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  📍 <strong>Madaripur, Bangladesh</strong>
+  <a href="https://wa.me/8801826140440">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B8801826140440-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
