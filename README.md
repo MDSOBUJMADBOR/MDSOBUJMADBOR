@@ -155,62 +155,26 @@ Problem Solving            █████████████████�
 
 ---
 
-## 💼 What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Modern Web Applications
-
-Building fast, responsive and user-friendly applications with modern frontend technologies.
-
-</td>
-
-<td width="50%">
-
-### ⚡ Full Stack Solutions
-
-Developing complete applications from frontend interfaces to backend APIs and databases.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Secure Backend APIs
-
-Creating structured REST APIs with authentication, validation and scalable architecture.
-
-</td>
-
-<td width="50%">
-
-### 🎨 Modern UI/UX
-
-Designing clean interfaces focused on usability, accessibility and responsive experiences.
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MDSOBUJMADBOR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MDSOBUJMADBOR&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MDSOBUJMADBOR&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
-</p>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MDSOBUJMADBOR&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+</div>
 
 ---
 
@@ -293,16 +257,7 @@ Designing clean interfaces focused on usability, accessibility and responsive ex
   📍 <strong>Location: Madaripur, Bangladesh</strong>
 </p>
 
-📫 Contact Me
 
-<p align="center">
-  <a href="mailto:sobujmadbor660@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sobujmadbor660%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/8801826140440">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B8801826140440-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
 
 ---
 
