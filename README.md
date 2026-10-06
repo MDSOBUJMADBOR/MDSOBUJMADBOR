@@ -1,11 +1,11 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,35:172554,70:2563EB,100:38BDF8&height=220&section=header&text=MD.%20SOBUJ%20MADBOR&fontSize=46&fontColor=FFFFFF&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=55&descSize=17&animation=fadeIn"
-    width="100%"
-    alt="MD. Sobuj Madbor"
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,65:2563EB,85:06B6D4,100:22D3EE&height=220&section=header&text=MD.%20SOBUJ%20MADBOR&fontSize=46&fontColor=FFFFFF&fontAlignY=30&desc=MERN%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20MongoDB&descAlignY=55&descSize=17&animation=fadeIn"
+  width="100%"
+  alt="MD. Sobuj Madbor"
+/>
 </p>
 
 <!-- ======================= PROFILE BADGES ======================= -->
