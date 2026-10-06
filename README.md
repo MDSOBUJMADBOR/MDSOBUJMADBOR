@@ -189,29 +189,6 @@ Problem Solving            █████████████████�
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=MDSOBUJMADBOR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MDSOBUJMADBOR&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Graph"
-    width="100%"
-  />
-</p>
-
----
-
 
 ---
 
@@ -260,19 +237,6 @@ Problem Solving            █████████████████�
 
 
 ---
-
-## 💡 What I Love Building
-
-```text
-🌐 Modern Full Stack Web Applications
-⚡ Fast & Responsive User Interfaces
-🔐 Secure & Scalable Backend APIs
-🗄️ Database-Driven Applications
-🎨 Clean & Professional UI/UX
-📱 Mobile-First Responsive Designs
-🚀 Production-Ready Full Stack Solutions
-🧠 Real-World Problem Solving
-```
 
 ---
 
