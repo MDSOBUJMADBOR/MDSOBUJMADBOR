@@ -51,7 +51,6 @@ I'm continuously learning, experimenting with new technologies, and improving my
 * 💻 Specialized in **MERN Stack Development**
 * 🧠 Passionate about **Problem Solving & Clean Code**
 * 🎨 Interested in **Modern UI/UX & Responsive Design**
-* 🔐 Interested in **Secure & Scalable Backend APIs**
 * 🤝 Open to **collaboration and interesting projects**
 * 🎯 Goal: Become a highly skilled **Professional Full Stack Developer**
 
@@ -60,13 +59,13 @@ I'm continuously learning, experimenting with new technologies, and improving my
 ## 🛠️ Tech Stack
 
 
-<!-- <div>
+ <div>
 
-[![My Skills](https://skillicons.dev/icons?i=,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,css,git,github,vscode,figma,postman)](https://skillicons.dev)
 
-</div> -->
+</div> 
 
-
+<!--
 ### 💻 Languages
 
 <p>
@@ -121,7 +120,7 @@ I'm continuously learning, experimenting with new technologies, and improving my
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Backend%20Architecture-2563EB?style=for-the-badge" alt="Backend Architecture"/>
 </p>
-
+-->
 
 ---
 
@@ -164,6 +163,41 @@ I'm continuously learning, experimenting with new technologies, and improving my
 
 </div>
 
+---
+
+---
+
+## 🧩 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/sobujmadbor660/">
+    <img
+      src="https://leetcard.jacoblin.cool/sobujmadbor660?theme=dark&font=Fira+Code&ext=heatmap"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sobujmadbor660/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode Profile"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Problem Solving | Data Structures &amp; Algorithms</strong>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sobujmadbor660/">
+    Visit My LeetCode Profile →
+  </a>
+</p>
+
+---
 
 
 ---
