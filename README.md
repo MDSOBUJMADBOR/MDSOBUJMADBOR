@@ -59,6 +59,14 @@ I'm continuously learning, experimenting with new technologies, and improving my
 
 ## 🛠️ Tech Stack
 
+
+<!-- <div>
+
+[![My Skills](https://skillicons.dev/icons?i=,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,figma,postman)](https://skillicons.dev)
+
+</div> -->
+
+
 ### 💻 Languages
 
 <p>
@@ -114,7 +122,6 @@ I'm continuously learning, experimenting with new technologies, and improving my
   <img src="https://img.shields.io/badge/Backend%20Architecture-2563EB?style=for-the-badge" alt="Backend Architecture"/>
 </p>
 
----
 
 ---
 
