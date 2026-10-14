@@ -61,7 +61,7 @@ I'm continuously learning, experimenting with new technologies, and improving my
 
  <div>
 
-[![My Skills](https://skillicons.dev/icons?i=,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,css,git,github,vscode,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,css,html,git,github,vscode,figma,postman)](https://skillicons.dev)
 
 </div> 
 
